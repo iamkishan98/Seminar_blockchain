@@ -1,0 +1,7 @@
+1.https://www.investopedia.com/tech/what-cryptocurrency-public-ledger/
+2.https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=e%20voting%20using%20blockchain
+3. https://towardsdatascience.com/e-voting-design-utilizing-blockchain-and-ai-6bb064a01874
+4.https://www.codementor.io/learn/blockchain/video-tutorials
+5.https://www.edureka.co/blog/building-smart-contract-development-environment/
+6. https://blockgeeks.com/guides/what-is-blockchain-technology/
+7.https://hackernoon.com/step-by-step-guide-to-push-your-first-project-on-github-fec1dce574f
